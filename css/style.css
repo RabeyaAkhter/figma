@@ -1,0 +1,135 @@
+/* Common css Files Start */
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+/* Common css Files End */
+
+/* Header Part St */
+#headerPart{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background:#ffff;
+}
+.headerFlex{
+    display: flex;
+    justify-content: space-between;
+}
+.menu ul li {
+    display: inline-block;
+   
+}
+.menu ul li a {
+    padding: 0 40px;
+    font-size: 16px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    color: black;
+}
+.menu{
+    padding-top: 12px;
+}
+.icons{
+    padding-top: 12px;
+}
+.icons i{
+    padding: 0 23px;
+}
+
+
+/* Header Part End */
+
+/* Banner Part St */
+#banner{
+    background: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 155px;
+    padding-bottom: 125px;
+}
+.bannerContent{
+   padding: 70px 10px 35px 25px;
+    background:#FFF3E3;
+    width: 50%;
+    margin-left: auto;
+    border-radius: 10px;
+}
+.bannerContent h4{
+    font-size: 16px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #333333;
+
+}
+.bannerContent h1{
+    font-size: 52px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #B88E2F;
+    line-height: 65px;
+    padding-right: 191px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+.bannerContent p{
+    font-size: 18px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    color: #333333;
+    line-height: 24px;
+    padding-right: 103px;
+    padding-bottom: 55px;
+}
+.bannerContent a{
+    padding: 30px 100px;
+    background: #B88E2F;
+    font-size: 16px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #ffff;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding-bottom: 35px;
+}
+
+
+
+/* Banner Part End */
+
+
+
+
+B88E2F
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
+/* Header Part St */
+/* Header Part End */
